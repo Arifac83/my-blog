@@ -1,7 +1,13 @@
 .App {
   text-align: center;
 }
-
+a{
+  text-decoration: none;
+}
+.MuiAppBar-colorPrimary {
+  color: #fff;
+  background-color: #f50057 !important;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
